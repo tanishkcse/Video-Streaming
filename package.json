@@ -1,0 +1,15 @@
+{
+  "name": "video-streaming-backend",
+  "version": "1.0.0",
+  "description": "Video Streaming app like youtube in backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "tanishk yadav",
+  "license": "ISC"
+}
